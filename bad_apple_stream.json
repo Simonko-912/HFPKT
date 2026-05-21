@@ -1,0 +1,420 @@
+[
+  {
+    "type": "callsign",
+    "callsign": "EXAMPLE"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_001.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_002.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_003.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_004.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_005.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_006.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_007.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_008.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_009.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_010.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_011.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_012.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_013.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_014.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_015.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_016.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_017.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_018.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_019.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_020.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_021.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_022.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_023.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_024.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_025.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_026.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_027.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_028.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_029.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_030.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_031.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_032.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_033.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_034.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_035.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_036.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_037.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_038.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_039.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_040.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_041.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_042.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_043.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_044.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_045.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_046.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_047.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_048.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_049.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_050.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_051.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_052.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_053.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_054.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_055.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_056.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_057.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_058.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_059.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_060.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_061.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_062.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_063.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_064.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_065.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_066.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_067.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_068.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_069.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_070.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_071.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_072.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_073.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_074.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_075.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_076.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_077.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_078.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_079.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_080.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_081.png",
+    "color": "bw"
+  },
+  {
+    "type": "image",
+    "file": "frames/frame_082.png",
+    "color": "bw"
+  },
+  {
+    "type": "callsign",
+    "callsign": "EXAMPLE"
+  }
+]
