@@ -1,0 +1,11 @@
+[
+  { "type": "callsign", "callsign": "EXAMPLE" },
+  { "type": "text", "text": "Hello world!" },
+  { "type": "image", "file": "photo.png", "color": "bw", "chunk": 512 },
+  { "type": "audio", "file": "voice.wav", "chunk": 1000 },
+  { "type": "binary", "file": "data.bin" },
+  { "type": "silence", "ms": 500 },
+  { "type": "callsign", "callsign": "EXAMPLE" }
+]
+
+# Each one of these is a individual packet (not counting silence). Chunking is not recommended to be used but i included it in this example.
