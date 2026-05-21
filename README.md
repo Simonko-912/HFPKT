@@ -125,3 +125,17 @@ Note: HFPKT was not tested with noise since the current decoder is not the best.
 
 <br>
 
+## HFPKT Stream
+You can use hfpkt stream to make a stream of packets into a wave file. <br>
+Commands: <br>
+```
+# Generate an example playlist
+python hfpkt_stream.py --example-json > my_stream.json
+python hfpkt_stream.py --example-text > my_stream.txt
+
+# Build the stream
+python hfpkt_stream.py my_stream.json -o stream.wav
+python hfpkt_stream.py my_stream.txt  -o stream.wav --gap 300 --verbose
+```
+Gap sets the gap between packets, i recommend something like 10ms or 5ms if you want it as short as possible.<br>
+The examples built in are diffrent than the stream_example.json, you can use any you want.<br>
