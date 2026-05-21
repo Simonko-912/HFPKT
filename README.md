@@ -1,5 +1,8 @@
 <img width="800" height="450" alt="HFPKT's name and a waterfall image of it in fm" src="https://github.com/user-attachments/assets/74ff8128-e28d-4cc0-b044-22110e82f74d" /> <br>
-<img width="1774" height="129" alt="bad apple in hfpkt on spectogram" src="https://github.com/user-attachments/assets/a3a24829-cb7c-4b05-b4c4-7c8fa74459ab" />
+<img width="1774" height="129" alt="bad apple in hfpkt on spectogram" src="https://github.com/user-attachments/assets/a3a24829-cb7c-4b05-b4c4-7c8fa74459ab" /> <br> 
+<br>
+<img width="1777" height="463" alt="image" src="https://github.com/user-attachments/assets/6149e0a5-b647-41c2-a476-f97c5fa39ce3" />
+
 
 # Architecture explained
 
