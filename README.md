@@ -98,14 +98,30 @@ python hfpkt_encoder.py image photo.png --color 4  --chunk 512 -o img_split.wav
 python hfpkt_encoder.py audio voice.wav --chunk 1000 -o voice.wav
 python hfpkt_encoder.py binary data.bin            -o data.wav
 ```
+
+Decoder:<br>
+```
+python hfpkt_decoder.py signal.wav
+python hfpkt_decoder.py signal.wav --out-dir ./decoded --verbose
+python hfpkt_decoder.py signal.wav --spectrum        # text-art FFT display
+python hfpkt_decoder.py signal.wav --threshold 0.03  # lower for weak signals
+```
+
+
+<br>
+
+## Image examples
 Note that --color stands for color depth, chosing bw uses a single bit for a pixel.<br>
 Scottie 1 is around 9 seconds slower when comparing scottie 1 and hfpkt (HFPKT 102.48s, Scottie 1 111s)<br>
 <img width="320" height="256" alt="img_pkt000_image" src="https://github.com/user-attachments/assets/9672ce1a-4869-4b01-b4be-087ab010c657" /> <img width="320" height="256" alt="monalisasstv" src="https://github.com/user-attachments/assets/7a607c5b-583c-4c5e-9ce9-1940f57e45d3" /> <br>
 Scottie 1 has simulated noise, as you can see, sstv is analog, so its more blurry, but HFPKT is digital, even if it is only bw, its sharp. This was made with `--color bw`<br>
 It took HFPKT 26.16s to decode this. <br>
 
+<br>
 
 <img width="320" height="256" alt="img_pkt000_image" src="https://github.com/user-attachments/assets/fb3e5ae6-f038-4599-9b32-a781179827a0" /> <br>
 The wave file for this was 817.65s long, it took 154.18s to decode, but its really high quality. This was made with `--color 8`<br>
 Note: HFPKT was not tested with noise since the current decoder is not the best. But it was tested with text over fm, what was sometimes intact and sometimes corrupted.<br>
+
+<br>
 
