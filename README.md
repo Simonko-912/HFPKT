@@ -11,7 +11,8 @@
 HFPKT is a new digital mode simular to RTTY or FSK, It uses 18 diffrent frequencies, from 700hz to 2400hz, each 100hz away from each other.<br>
 16 are used for data, and the other 2 for headers, HFPKT uses a special combination of frequencies (tones) to represent diffrent bits. <br>
 Data uses 16 frequencies, so you can transmit 4 bits at the same time. The other bits (2) are used to identify the metadata from data, thats why its longer. <br>
-
+HFPKT is made for HF, but should work on VHF, and other frequencies, Since its audio based, it should work on every mode (am, fm, lsb, usb etc. expect modes like cw.)<br>
+HFPKT transmits at 800bps, using a mix of tones, that mix is played for 5 ms, and packets are made from multiple combinations of these.<br>
 
 ## Packets
 
